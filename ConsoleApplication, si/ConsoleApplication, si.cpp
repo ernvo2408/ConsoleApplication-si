@@ -9,6 +9,7 @@ int main()
     cout << "Ernesto Vazquez Ocana" << endl;
     cout << "UNACH 2025" << endl;
     cout << "2do O - Licenciatura en Ingenieria en Desarrollo de Software y Tecnologia" << endl;
+    cout << "hola" << endl;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar

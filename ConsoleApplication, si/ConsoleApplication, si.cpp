@@ -2,10 +2,13 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    cout << "Ernesto Vazquez Ocana" << endl;
+    cout << "UNACH 2025" << endl;
+    cout << "2do O - Licenciatura en Ingenieria en Desarrollo de Software y Tecnologia" << endl;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
